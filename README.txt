@@ -1,16 +1,19 @@
-Inception — Dream Control
+INCEPTION — DREAM CONTROL
+Latest version: cinematic backgrounds for all five dream layers.
 
-Getting started
-1. Extract this ZIP into a folder.
-2. Open index.html in your browser.
-3. Select Begin the mission to start the challenge, or explore the layers first.
+PUBLISH TO YOUR WEBSITE
+1. Extract this ZIP.
+2. Upload index.html, style.css, app.js, cinema.js, backgrounds.js and the entire assets folder into your inception-dream-control directory.
+3. Keep the folder structure unchanged. index.html must sit directly in that directory.
+4. Open https://saleemyousaf.co.uk/inception-dream-control/ and refresh to load the updated files.
 
-No installation or build step is required. The simulation runs locally in your browser.
-The About the film link opens an external website and requires an internet connection.
+The site is static and self-contained. No build step, API keys, CDN or external image hosting is needed. Serve the files over HTTP or HTTPS.
 
-Files
-- index.html: page structure
-- style.css: styling and responsive layout
-- app.js: simulation and interactions
+FEATURES
+Five photographic backgrounds with crossfades; animated WebGL dream scenes; elevator movement; van water plunge; mountain fortress; collapsing dreams; synchronized kicks; camera controls; pause/skip; reduced-motion support; schematic fallback if WebGL is unavailable.
 
-To host the site yourself, upload these three files together to any static website host.
+PHOTO CREDITS
+See assets/credits.json for photographer names and source links.
+Photos are used under the Unsplash License: https://unsplash.com/license
+
+This is an independent fan-made simulation.
